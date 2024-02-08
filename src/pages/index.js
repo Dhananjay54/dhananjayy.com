@@ -17,7 +17,7 @@ export default function Home() {
         <title>Dhananjay&apos;s Artist Page</title>
         <meta
           name="description"
-          content="I am Dhananjay, a passionate 21-year-old singer-songwriter and guitarist, weaving tales through my strings and lyrics. Music is not just a passion for me; it's the language through which I express my deepest emotions and connect with the world."
+          content="I am Dhananjay, a passionate 21-year-old singer-songwriter and guitarist, weaving tales through my strings and lyrics. Music is not just a passion for me; it&apos;s the language through which I express my deepest emotions and connect with the world."
         />
       </Head>
 
@@ -42,7 +42,7 @@ export default function Home() {
                 className="!text-left !text-6xl xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl"
               />
               <p className="my-4 text-base font-medium md:text-sm sm:!text-xs">
-              I am Dhananjay, a passionate 21-year-old singer-songwriter and guitarist, weaving tales through my strings and lyrics. Music is not just a passion for me; it's the language through which I express my deepest emotions and connect with the world.
+              I am Dhananjay, a passionate 21-year-old singer-songwriter and guitarist, weaving tales through my strings and lyrics. Music is not just a passion for me; it&apos;s the language through which I express my deepest emotions and connect with the world.
               </p>
               <div className="mt-2 flex items-center self-start lg:self-center">
                 <Link
@@ -58,7 +58,7 @@ export default function Home() {
              `}
                   download
                 >
-                  Stream Goodbye <LinkArrow className="ml-1 !w-6 md:!w-4" />
+                  Stream &apos;Goodbye&apos; Now <LinkArrow className="ml-1 !w-6 md:!w-4" />
                 </Link>
 
                 <Link
