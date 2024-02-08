@@ -161,7 +161,7 @@ export default function Projects() {
   return (
     <>
       <Head>
-        <title>Dhananjay's Music</title>
+        <title>Dhananjay&apos;s Music</title>
         <meta
           name="description"
           content="Discover the latest webapp projects created by CodeBucks, a Next.js developer with 

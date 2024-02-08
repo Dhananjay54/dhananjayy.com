@@ -55,7 +55,7 @@ export default function About() {
                 BIOGRAPHY
               </h2>
               <p className="font-medium ">
-              Hey there! I'm <strong>Dhananjay K Prasad</strong>, a 21-year-old musician from Calicut, India. My musical roots run deep in the classical traditions of Carnatic singing, but my journey took an exciting turn when I fell in love with the Western guitar. Blending the soulful melodies of Carnatic with the contemporary vibe of the guitar has become my signature sound.
+              Hey there! I&apos;m <strong>Dhananjay K Prasad</strong>, a 21-year-old musician from Calicut, India. My musical roots run deep in the classical traditions of Carnatic singing, but my journey took an exciting turn when I fell in love with the Western guitar. Blending the soulful melodies of Carnatic with the contemporary vibe of the guitar has become my signature sound.
               </p>
               <p className="my-4 font-medium">
               Trained in both worlds, I navigate the intricate nuances of Carnatic music while expressing myself through the strings of the Western guitar. It's a fusion that defines who I am as a musician, seamlessly blending tradition with innovation.

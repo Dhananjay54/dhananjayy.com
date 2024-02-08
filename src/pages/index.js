@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Dhananjay's Artist Page</title>
+        <title>Dhananjay&apos;s Artist Page</title>
         <meta
           name="description"
           content="I am Dhananjay, a passionate 21-year-old singer-songwriter and guitarist, weaving tales through my strings and lyrics. Music is not just a passion for me; it's the language through which I express my deepest emotions and connect with the world."
