@@ -1,7 +1,7 @@
 import Layout from "@/components/Layout";
 import Head from "next/head";
 import Image from "next/image";
-import profile from "/Users/dhananjay/Code/Projects/dhananjayy.com/public/images/profile/IMG_1741.jpg";
+import profile from "public/images/profile/IMG_1741.jpg";
 import { useInView, useMotionValue, useSpring } from "framer-motion";
 import { useEffect, useRef } from "react";
 import AnimatedText from "@/components/AnimatedText";

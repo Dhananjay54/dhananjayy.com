@@ -5,10 +5,10 @@ import { motion } from "framer-motion";
 import Head from "next/head";
 import Image from "next/image";
 import Link from "next/link";
-import proj1 from "/Users/dhananjay/Code/Projects/dhananjayy.com/public/images/projects/iknow.png";
-import proj2 from "/Users/dhananjay/Code/Projects/dhananjayy.com/public/images/projects/lhg.png";
-import proj3 from "/Users/dhananjay/Code/Projects/dhananjayy.com/public/images/projects/kchey.png";
-import proj4 from "/Users/dhananjay/Code/Projects/dhananjayy.com/public/images/projects/gbye.png";
+import proj1 from "public/images/projects/iknow.png";
+import proj2 from "public/images/projects/lhg.png";
+import proj3 from "public/images/projects/kchey.png";
+import proj4 from "public/images/projects/gbye.png";
 import TransitionEffect from "@/components/TransitionEffect";
 
 const FramerImage = motion(Image);
