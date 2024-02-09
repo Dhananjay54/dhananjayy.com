@@ -185,8 +185,8 @@ export default function Projects() {
                 title="Goodbye"
                 summary="This is my first release in 1.5 years and is the first of many more releases to come in 2024. This song was written from the stand point of a person who has just gone through a breakup. Hope you enjoy it!"
                 img={proj4}
-                link="https://distrokid.com/hyperfollow/dhananjaykprasad/goodbye"
-                github="https://distrokid.com/hyperfollow/dhananjaykprasad/goodbye"
+                link="https://youtu.be/saVX0NF7Q7I?si=Gd5NJAaFtuDw9sLW"
+                github="https://open.spotify.com/track/5pZugpZe4FjVa7Re7VMZRG?si=01fba08ec4dc460b"
               />
             </div>
             <div className="col-span-12">

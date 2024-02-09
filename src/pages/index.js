@@ -58,7 +58,7 @@ export default function Home() {
              `}
                   download
                 >
-                  Stream &apos;Goodbye&apos; Now <LinkArrow className="ml-1 !w-6 md:!w-4" />
+                  Listen to &apos;Goodbye&apos;<LinkArrow className="ml-1 !w-6 md:!w-4" />
                 </Link>
 
                 <Link

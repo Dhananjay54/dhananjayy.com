@@ -186,27 +186,27 @@ const Navbar = () => {
         <motion.a
           target={"_blank"}
           className="w-6 m-1 mr-3 sm:mx-1"
-          href="#"
+          href="https://twitter.com/Dhananjayymusic"
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my twitter profile"
+          aria-label="Checkout my X profile"
         >
           <TwitterIcon />
         </motion.a>
         <motion.a
           target={"_blank"}
           className="w-6 m-1 mx-3 bg-light rounded-full dark:bg-dark sm:mx-1"
-          href="#"
+          href="https://music.apple.com/in/artist/dhananjay-k-prasad/1583268900"
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my github profile"
+          aria-label="Checkout my Apple Music profile"
         >
           <GithubIcon />
         </motion.a>
         <motion.a
           target={"_blank"}
           className="w-6 m-1 mx-3 sm:mx-1"
-          href="#"
+          href="https://www.linkedin.com/in/dhananjaykprasad"
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
           aria-label="Checkout my linkedin profile"
@@ -216,20 +216,20 @@ const Navbar = () => {
         <motion.a
           target={"_blank"}
           className="w-6 m-1 mx-3 bg-light rounded-full sm:mx-1"
-          href="#"
+          href="https://open.spotify.com/artist/5tFP9N7FAZfSx8BBmVDOZ8?si=OHRAzuV3St6sxG-RAK6q1g"
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my pinterest profile"
+          aria-label="Checkout my Spotify profile"
         >
           <PinterestIcon />
         </motion.a>
         <motion.a
           target={"_blank"}
           className="w-6 m-1 mx-3 sm:mx-1"
-          href="#"
+          href="https://www.instagram.com/dhananjayymusic?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
-          aria-label="Checkout my dribbble profile"
+          aria-label="Checkout my Instagram profile"
         >
           <DribbbleIcon />
         </motion.a>
